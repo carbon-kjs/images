@@ -1,0 +1,8 @@
+{
+  "name": "images",
+  "version": "1.0.0",
+  "author": "Malezja",
+  "minecraftVersion": "1.19.2",
+  "description": "Example how to add your own images/textures to minecraft.",
+  "modloaders": ["forge", "fabric"]
+}
